@@ -1,2 +1,13 @@
+<<<<<<< Updated upstream
+<<<<<<< HEAD
 revise 0
 revise 2
+=======
+fkdk
+
+용준님의 흔적.
+>>>>>>> 48e08eeada72da38559826aa79742e1961376dd4
+=======
+revise 0
+revise 2
+>>>>>>> Stashed changes
