@@ -1,1 +1,3 @@
 # GIT-Practice
+
+merge conflict ~~~~
