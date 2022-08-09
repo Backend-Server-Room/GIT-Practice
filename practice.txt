@@ -1,3 +1,5 @@
+
+
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 revise 0
@@ -11,3 +13,4 @@ fkdk
 revise 0
 revise 2
 >>>>>>> Stashed changes
+안녕하세요, 저는 숩짱입니다.
